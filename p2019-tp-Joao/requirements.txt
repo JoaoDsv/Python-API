@@ -1,0 +1,4 @@
+openpyxl==2.3.3
+Flask==0.10.1
+Blueprint==3.4.2
+peewee==2.8.5
