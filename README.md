@@ -1,6 +1,7 @@
 # Python-API
 
 
+- User sign up with phone & password
 
 - Secure login with SMS confirmation (Nexmo API)
 
@@ -8,4 +9,4 @@
 
 - Create a transaction with Stripe API
 
-- Sms confirmation for transaction
+- Sms confirmation for transactions
